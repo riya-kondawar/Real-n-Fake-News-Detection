@@ -9,6 +9,7 @@ This project aims to combat misinformation by leveraging Artificial Intelligence
 - **Classification Model**: Implements supervised learning for fake news detection.  
 - **Data Visualization**: Highlights patterns and trends in news articles.
 
+## Project Poster
 ![Project Poster](/project-report/project-poster.png)
 
 ## Datasets  
